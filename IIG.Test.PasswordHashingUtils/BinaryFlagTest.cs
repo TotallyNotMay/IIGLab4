@@ -5,7 +5,7 @@ using System;
 namespace IIG.Test.PasswordHashingUtils
 {
     [TestClass]
-    public class UnitTest1 {
+    public class BinaryFlagTest {
 
         [TestMethod]
         public void TestConstructorLength1() {
